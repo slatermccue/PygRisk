@@ -1,4 +1,4 @@
-## Risk with Pygame
+# Risk with Pygame
 
 I typically teach a major unit in my Python class with Pygame. I do
 not use a lot of pygame calls and constructs which simplify bulding games;
@@ -23,7 +23,7 @@ changing jobs (and city) for the first time in nearly 15 years, so I will
 have lots of events competing for my attention.  I'm writing this
 Readme.md June 10, 2024.  Let's see how far we get by August 10!
 
-# Note 1: 
+## Note 1: 
 Because the countries will have irregular edges, I cannot use
 a simplified collider.  I believe I will be able to use the image mask
 to figure out if I am clicking on a country.  I will build the world
