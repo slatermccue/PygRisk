@@ -25,8 +25,8 @@ Readme.md June 10, 2024.  Let's see how far we get by August 10!
 
 ### Note 2:
 TODO list:
-- need to add blob images to a list
-- iterate through the list and checking for mouse collision
+- ~~need to add blob images to a list~~
+- ~~iterate through the list and checking for mouse collision~~
 - incorporate collision detection in object, if possible
 
 ### Note 1: 
