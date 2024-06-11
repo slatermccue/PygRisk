@@ -23,6 +23,10 @@ changing jobs (and city) for the first time in nearly 15 years, so I will
 have lots of events competing for my attention.  I'm writing this
 Readme.md June 10, 2024.  Let's see how far we get by August 10!
 
+### Note 3:
+- found an archive of the game at https://www.myabandonware.com/game/risk-3pi
+  - might be able to replicate some of the images and styling
+
 ### Note 2:
 TODO list:
 - ~~need to add blob images to a list~~
