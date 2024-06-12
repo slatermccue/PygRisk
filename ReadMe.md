@@ -23,7 +23,7 @@ changing jobs (and city) for the first time in nearly 15 years, so I will
 have lots of events competing for my attention.  I'm writing this
 Readme.md June 10, 2024.  Let's see how far we get by August 10!
 
-###Note 4:
+### Note 4:
 - testing changing the mouse to a sword like the original Mac Risk game
   - use testMaskClickerV5.py to see the results
   - the image is built with Krita as a 64x64 png with a transparent background
