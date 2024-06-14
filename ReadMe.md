@@ -1,7 +1,7 @@
 # Risk with Pygame
 
 I typically teach a major unit in my Python class with Pygame. I do
-not use a lot of pygame calls and constructs which simplify bulding games;
+not use a lot of pygame calls and constructs which simplify building games;
 instead, I prefer the simplification of getting something drawn to the screen
 that we can then manipulate and "move". My students are required to learn
 how to create a function with parameters, so we build our own collision
@@ -23,6 +23,12 @@ changing jobs (and city) for the first time in nearly 15 years, so I will
 have lots of events competing for my attention.  I'm writing this
 Readme.md June 10, 2024.  Let's see how far we get by August 10!
 
+### Note 5:
+- added map assets
+   - drew a map in notebook and imported a photo of it into Krita
+   - using stylus, drew each country on its own layer
+   - saved each country layer as its own png
+  
 ### Note 4:
 - testing changing the mouse to a sword like the original Mac Risk game
   - use testMaskClickerV5.py to see the results
