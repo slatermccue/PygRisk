@@ -23,6 +23,18 @@ changing jobs (and city) for the first time in nearly 15 years, so I will
 have lots of events competing for my attention.  I'm writing this
 Readme.md June 10, 2024.  Let's see how far we get by August 10!
 
+### Note 6:
+- I have begun the process of creating an image for each state a country
+  might be in.
+  - "hover" - when the mouse is over the country
+  - "normal" - when the country is not being accessed in any way
+  - "attacking" - when the country has been chosen as the attacker
+  - "defending" - when the country has been chosen to be attacked
+  
+  I'm trying out the pattern for hover that reminds me of the Mac version
+  of Risk.  The color red is for the attacking country, and the color blue
+  is for the defending country.
+
 ### Note 5:
 - added map assets
    - drew a map in notebook and imported a photo of it into Krita
