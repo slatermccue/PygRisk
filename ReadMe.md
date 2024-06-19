@@ -23,6 +23,15 @@ changing jobs (and city) for the first time in nearly 15 years, so I will
 have lots of events competing for my attention.  I'm writing this
 Readme.md June 10, 2024.  Let's see how far we get by August 10!
 
+### Note 7:
+- I am only guessing, but I would think that Pygame has a way to apply
+  a color or texture to a surface.  I probably don't need to be making
+  separate images for the country statuses (hover, normal, attack, defend).
+  - still, here are the colors: defend is blue (80, 174, 206);
+    attack is red (206, 80, 80). Hmmm, those are so close, why not go ahead
+    and make them seem complementary?  I'll try blue (80, 80, 206) and see how
+    it feels.
+
 ### Note 6:
 - I have begun the process of creating an image for each state a country
   might be in.
