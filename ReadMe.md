@@ -23,6 +23,17 @@ changing jobs (and city) for the first time in nearly 15 years, so I will
 have lots of events competing for my attention.  I'm writing this
 Readme.md June 10, 2024.  Let's see how far we get by August 10!
 
+### Note 8:
+- I was emailing a friend about Risk and realized that it would be useful for them
+  to actually play it.  Asked the internet and, lo and behold:
+  https://jamesfriend.com.au/pce-js/pce-js-apps/ 
+
+- Added all countries to the list.  Need to consider how troop counts will
+  be displayed.  Would like to display country names, but that may seem a bit
+  crowded.  Also, not going to worry about the fact that some mask overlap.
+  We'll just make sure only one country is in hover state before we allow the
+  player to activate that country.
+
 ### Note 7:
 - I am only guessing, but I would think that Pygame has a way to apply
   a color or texture to a surface.  I probably don't need to be making

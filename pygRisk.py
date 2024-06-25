@@ -44,27 +44,35 @@ mikem = Country('MikemCcu', 'mikemccu')
 hollyh = Country('HolLyh', 'hollyh')
 jenniferg = Country('Jenniferg', 'jenniferg')
 paulce = Country('Paulce', 'paulce')
-allCountries = [mikem,hollyh,jenniferg,paulce]
+mikemil = Country('MikemIl', 'mikemil')
+pame = Country('Pame',' pame')
+lap = Country('Lap', 'lap')
+treneeu = Country('TreNeeu', 'treneeu')
+hollye = Country('HolLye', 'hollye')
+jesusri = Country('JesUsri', 'jesusri')
+
+
+allCountries = [mikem,hollyh,jenniferg,paulce,pame,lap,mikemil,treneeu,hollye,jesusri]
 background = pg.image.load("mapBackground.png")
 
-countryMikemIl = pg.image.load("countryMikemIl.png")
-countryPame = pg.image.load("countryPame.png")
-countryTreNeeu = pg.image.load("countryTreNeeu.png")
-countryHolLye = pg.image.load("countryHolLye.png")
-countryJesUsri = pg.image.load("countryJesUsri.png")
-countryLap = pg.image.load("countryLap.png")
+#countryMikemIl = pg.image.load("countryMikemIl.png")
+#countryPame = pg.image.load("countryPame.png")
+#countryTreNeeu = pg.image.load("countryTreNeeu.png")
+#countryHolLye = pg.image.load("countryHolLye.png")
+#countryJesUsri = pg.image.load("countryJesUsri.png")
+#countryLap = pg.image.load("countryLap.png")
 
 while running:
     screen.fill(white)
     screen.blit(background, (0,0))
     for country in allCountries:
         country.draw()
-    screen.blit(countryHolLye, (0,0))
-    screen.blit(countryJesUsri, (0,0))
-    screen.blit(countryLap, (0,0))
-    screen.blit(countryMikemIl, (0,0))
-    screen.blit(countryPame, (0,0))
-    screen.blit(countryTreNeeu, (0,0))
+    #screen.blit(countryHolLye, (0,0))
+    #screen.blit(countryJesUsri, (0,0))
+    #screen.blit(countryLap, (0,0))
+    #screen.blit(countryMikemIl, (0,0))
+    #screen.blit(countryPame, (0,0))
+    #screen.blit(countryTreNeeu, (0,0))
 
     for event in pg.event.get():
         if event.type == pg.QUIT:
