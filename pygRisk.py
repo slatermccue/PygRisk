@@ -42,7 +42,7 @@ red = (255,0,0)
 
 mikem = Country('MikemCcu', 'mikemccu')
 hollyh = Country('HolLyh', 'hollyh')
-jenniferg = Country('Jenniferg', 'jenniferg')
+jenniferg = Country('JenniFerg', 'jenniferg')
 paulce = Country('Paulce', 'paulce')
 mikemil = Country('MikemIl', 'mikemil')
 pame = Country('Pame',' pame')
